@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Too Many Items Banner](https://raw.githubusercontent.com/MattiaBiancini/ROR2-TooManyItems/main/banner.png)
+![Too Many Items Banner](https://raw.githubusercontent.com/MattiaBiancini/ROR2-TooManyItems/assets/banner.png)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![BepInEx](https://img.shields.io/badge/BepInEx-5.4.21-green?style=for-the-badge)
