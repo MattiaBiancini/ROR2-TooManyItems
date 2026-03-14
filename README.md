@@ -11,7 +11,7 @@
 
 **Displays item information directly in the HUD when you look at items in the world.**
 
-[![Thunderstore](https://img.shields.io/badge/Thunderstore-Download-blue?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/package/MattiaBiancini/TooManyItems/)
+[![Thunderstore](https://img.shields.io/badge/Thunderstore-Download-blue?style=for-the-badge&logo=thunderstore)](https://thunderstore.io/package/ProjectGenesys/TooManyItems/)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/garnet14)
 
 </div>
