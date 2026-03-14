@@ -66,6 +66,9 @@ Each panel displays:
 - Shop terminal support
 - Artifact of Command hover support
 
+### 1.0.1
+- Fix README with correct links
+
 ---
 
 ## 💖 Support
