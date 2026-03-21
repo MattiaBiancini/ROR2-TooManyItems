@@ -4,7 +4,7 @@ using RoR2ItemInfo.hud;
 
 namespace RoR2ItemInfo
 {
-    [BepInPlugin("me.garnet14.tooManyItems", "Too Many Items", "1.0.0")]
+    [BepInPlugin("me.garnet14.tooManyItems", "Too Many Items", "1.0.1")]
 	public class Plugin : BaseUnityPlugin
     {
         public static ManualLogSource Log = null!;
